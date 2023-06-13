@@ -1,8 +1,6 @@
 # aggregatedNewsDashboard
 ## Powered by [</newscatcher >](https://newscatcherapi.com/)
 
-![](dashboard.png)
-
 ## Goal
 The goal of this project is to build a dashboard that aggregates news over a specific topic. The hope to leverage sentiment analysis to quickly inform the user about the news landscape of their keyword interest in a general yet detailed manner.
 
