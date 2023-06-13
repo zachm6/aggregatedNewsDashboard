@@ -1,5 +1,6 @@
 # aggregatedNewsDashboard
-Powered by [</newscatcher >](https://newscatcherapi.com/)
+## Powered by [</newscatcher >](https://newscatcherapi.com/)
+
 ![](dashboard.png)
 
 ## Goal
