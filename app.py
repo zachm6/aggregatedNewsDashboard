@@ -4,7 +4,6 @@ from dash import Dash, dcc, html, Input, Output, dash_table
 import dash_bootstrap_components as dbc
 from datetime import date
 from datetime import datetime
-import lorem
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.SLATE])
 
